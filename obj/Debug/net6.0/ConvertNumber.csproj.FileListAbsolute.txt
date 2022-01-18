@@ -1,0 +1,12 @@
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\bin\Debug\net6.0\ConvertNumber.deps.json
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\bin\Debug\net6.0\ConvertNumber.dll
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\bin\Debug\net6.0\ref\ConvertNumber.dll
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\bin\Debug\net6.0\ConvertNumber.pdb
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.csproj.AssemblyReference.cache
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.AssemblyInfoInputs.cache
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.AssemblyInfo.cs
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.csproj.CoreCompileInputs.cache
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.dll
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ref\ConvertNumber.dll
+C:\Users\M_programmer_H\Desktop\testK\ConvertNumber\obj\Debug\net6.0\ConvertNumber.pdb
